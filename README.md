@@ -2,6 +2,11 @@
 Gaianet_Bot
 
 导入文本格式:
+没有discord账号Token的可以导入:
+
+钱包地址----钱包私钥----推特token
+
+有discord账号Token的导入:
 
 钱包地址----钱包私钥----推特token----discordToken
 
